@@ -11,4 +11,8 @@ import matplotlib.pyplot as plt
 
 # COMMAND ----------
 
+import matplotlib.pyplot as plt
+
+# COMMAND ----------
+
 
