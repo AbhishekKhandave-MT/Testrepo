@@ -7,4 +7,8 @@ import numpy as np
 
 # COMMAND ----------
 
+import matplotlib.pyplot as plt
+
+# COMMAND ----------
+
 
